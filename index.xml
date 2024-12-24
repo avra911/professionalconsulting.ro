@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Professional Consulting</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Professional Consulting</description>
+    <generator>Hugo</generator>
+    <language>ro-RO</language>
+    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;h3 id=&#34;adresa&#34;&gt;Adresa:&lt;/h3&gt;&#xA;&lt;p&gt;Strada Berzei nr.70, ap.3, sector1, Bucuresti&lt;/p&gt;&#xA;&lt;h3 id=&#34;cod-postal&#34;&gt;Cod postal:&lt;/h3&gt;&#xA;&lt;p&gt;010263, ROMANIA&lt;/p&gt;&#xA;&lt;h3 id=&#34;telefon&#34;&gt;Telefon:&lt;/h3&gt;&#xA;&lt;p&gt;+40-21-3139091&lt;/p&gt;&#xA;&lt;h3 id=&#34;fax&#34;&gt;Fax:&lt;/h3&gt;&#xA;&lt;p&gt;+40-21-3139092&lt;/p&gt;&#xA;&lt;h3 id=&#34;fax-box&#34;&gt;Fax Box:&lt;/h3&gt;&#xA;&lt;p&gt;+40-721104354&lt;/p&gt;&#xA;&lt;h3 id=&#34;e-mail&#34;&gt;E-mail:&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:office@professionalconsulting.ro&#34;&gt;office@professionalconsulting.ro&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;web&#34;&gt;Web:&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.professionalconsulting.ro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.professionalconsulting.ro&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Istorie</title>
+      <link>http://localhost:1313/istorie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/istorie/</guid>
+      <description>&lt;h1 id=&#34;istorie&#34;&gt;Istorie&lt;/h1&gt;&#xA;&lt;p&gt;Din istoria ROMANIEI&lt;/p&gt;&#xA;&lt;p&gt;Actualul teritoriul al României a fost locuit în antichitate de populatiile dacice, cucerit si colonizat de romani din vremea lui Traian pâna la începutul secolul al II-lea d.C., apoi a fost abandonat de acestia în 271-275 în timpul lui Aurelian. Dupa retragerea romanilor, regiunea a ramas expusa timp de aproape o mie de ani în fata invaziilor gotilor, unitilor, gepizilor, avarilor, slavilor, bulgarilor, maghiarilor si mongolilor, dar populatia a reusit sa îi asimileze pe cuceritori si în secolul al X-lea era completat procesul de formare a poporului român si a limbii sale.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Servicii</title>
+      <link>http://localhost:1313/servicii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/servicii/</guid>
+      <description>&lt;h1 id=&#34;servicii&#34;&gt;Servicii&lt;/h1&gt;&#xA;&lt;p&gt;Professional Services Consulting îi poate asista pe investitorii care intentioneaza sa opereze pe piata româna:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;În faza de explorare de cercetare a pietei, identificarea eventualilor parteneri locali, alegerea regiunii si a locatiilor firmei;&lt;/li&gt;&#xA;&lt;li&gt;În faza initiala de alegere a modelului de societate, elaborarea statutului si a altor acte legate de constituire;&lt;/li&gt;&#xA;&lt;li&gt;În faza operativa, prin asistenta în elaborarea contractelor comerciale, de vânzare-cumparare de bunuri si imobile, asistenta în activitatea vamala, angajarea de personal, redactarea de bilanturi, tinerea contabilitatii, audit, legaturi între contabilitatea româna si cea straina, activitatea de controller asupra activitatii desfasurate de administratori, parteneri locali si alti asociati ai societatii, verificarea gestiunii administrativ-contabile a societatii etc.&lt;/li&gt;&#xA;&lt;li&gt;În participarea la privatizarea de societati de stat române sau a parti din acestea.&lt;/li&gt;&#xA;&lt;li&gt;În faza financiara, de gasire de finantari, realizarea de proiecte ale Comunitatii Economice Europene, Finantari Simest pentru programe de penetrare comerciala – Legea 394, studii de fezabilitate, asistenta tehnica – Legea 143 etc.&lt;/li&gt;&#xA;&lt;li&gt;Prin biroul legal asociat, poate de asemenea sa asiste proprii clienti în toate problemele legale, legate de activitatea firmei si în eventualele faze din contencios.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;În colaborare cu alte birouri asociate, opereaza în Bruxelles, pe lânga birourile Comunitatii Europene, reprezentând diferite interese, furnizând asistenta pentru realizarea de proiecte sustinute de Comunitatea Europeana si oferind spatiu, în birourile proprii, pentru firmele care solicita acest lucru.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Termeni și condiții</title>
+      <link>http://localhost:1313/termeni-si-conditii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/termeni-si-conditii/</guid>
+      <description>&lt;h1 id=&#34;termeni-și-condiții&#34;&gt;Termeni și condiții&lt;/h1&gt;&#xA;&lt;p&gt;PENTRU UTILIZAREA ACESTUI SITE ESTE NECESAR SA CITITI SI SA ACCEPTATI ACESTI TERMENI SI CONDITII IN TOTALITATE. VIZITAREA IN CONTINUARE A ACESTUI SITE RESUPUNE CA SUNTETI DE ACORD CU ACESTI TERMENI SI CONDITII. SERVICIILE PE CARE ACEST SITE LE FURNIZEAZA SUNT REZERVATE PERSOANELOR PESTE 18 ANI SAU MINORILOR DE PESTE 14 ANI CARE AU CONSIMTAMANTUL PARINTILOR DE A UTILIZA ACEST SITE WEB.&lt;/p&gt;&#xA;&lt;p&gt;Acesti Termeni si Conditii de utilizare sunt aplicabili site-ului &lt;a href=&#34;https://www.professionalconsulting.ro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.professionalconsulting.ro&lt;/a&gt; gazduit de compania Professional Services Consulting. Orice persoana care acceseaza acest site va trebui sa citeasca acesti Termeni si Conditii prezentati in continuare, inainte de accesarea site-ului, si va trebui sa-i accepte fara alte limitari sau rezerve. Professional Services Consulting isi rezerva dreptul de a schimba, de a corecta, de a modifica, de a adauga si/sau retrage in parte sau in intregime Termenii si Conditiile.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
